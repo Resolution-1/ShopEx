@@ -2,7 +2,7 @@
 
 A e-commerce webiste made with mongodb express react and node
 
-## Usage
+### For Frontend
 ```bash
 cd frontend
 
